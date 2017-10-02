@@ -16,6 +16,6 @@ private double numer,denume;
 	@Override
 	public String toString()
 	{
-		return Double.valueOf(numer).toString() + " " + Double.valueOf(numer).toString();
+		return Double.valueOf(numer).toString() + " " + Double.valueOf(denume).toString();
 	}
 }
