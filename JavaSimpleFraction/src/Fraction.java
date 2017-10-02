@@ -18,4 +18,5 @@ private double numer,denume;
 	{
 		return Double.valueOf(numer).toString() + " " + Double.valueOf(denume).toString();
 	}
+	
 }
