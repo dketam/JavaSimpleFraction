@@ -1,5 +1,3 @@
 exo 2.1
-exo 6.1
-exo 6.2
 KETAM DJILLALI 
 21608184
